@@ -2,7 +2,7 @@
 
 ## Tecnologias Utilizadas:
 
-- Cypress 13.x (ou superior)
+- Cypress 14.x (ou superior)
 - JavaScript
 - Cucumber (BDD)
 - Cypress Cucumber Preprocessor
