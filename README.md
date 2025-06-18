@@ -1,4 +1,4 @@
-# Desafio F1RTS - QA Cypress 🚀
+# Desafio F1RST - QA Cypress 🚀
 
 ## Tecnologias Utilizadas:
 
